@@ -786,4 +786,4 @@ The issue could be caused by a change in the parent configuration.;De issue zou 
 Child function;Werking van kinderfunctie;;;;;;
 Sum;Som;;;;;;
 Average;Gemiddelde;;;;;;
-If the Children option is selected, this dropdown allows you to specify how all values in the variable are treated. Only the values of the children that are selected will be included in the variable.;Wanneer optie kinderen is geselecteerd, deze keuzelijst geeft je de mogelijkheid om aan te geven hoe de waardes van de variabelen behandeld moeten worden. Alleen de waardes van geselecteerde kinderen worden gebruikt in de variabelen;;;;;;
+If the Children option is selected, this dropdown allows you to specify how all values in the variable are treated. Only the values of the children that are selected will be included in the variable.;Wanneer de optie kinderen is geselecteerd geeft deze keuzelijst je de mogelijkheid om aan te geven hoe de waardes van de variabelen behandeld moeten worden. Alleen de waardes van geselecteerde kinderen worden gebruikt in de variabelen;;;;;;
